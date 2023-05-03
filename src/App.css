@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+.option-container{
+  margin: 50px;
+
+  width: 120px;
+
+}
+.option-btn{
+ margin: 10px;
+}
